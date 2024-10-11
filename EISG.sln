@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EISG.Temperatura.UnitTestMS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EISG.ManipuladorCadenasTexto", "EISG.ManipuladorCadenasTexto\EISG.ManipuladorCadenasTexto.csproj", "{69AA6849-E6D5-4E64-AB92-DF116CA64B3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EISG.ManipuladorCadenasTexto.UnitTestxUnit", "EISG.ManipuladorCadenasTexto.UnitTestxUnit\EISG.ManipuladorCadenasTexto.UnitTestxUnit.csproj", "{8EEEDEE3-C6A4-4B58-8ACE-F7B051E5CEE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{69AA6849-E6D5-4E64-AB92-DF116CA64B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69AA6849-E6D5-4E64-AB92-DF116CA64B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69AA6849-E6D5-4E64-AB92-DF116CA64B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEEDEE3-C6A4-4B58-8ACE-F7B051E5CEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEEDEE3-C6A4-4B58-8ACE-F7B051E5CEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEEDEE3-C6A4-4B58-8ACE-F7B051E5CEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEEDEE3-C6A4-4B58-8ACE-F7B051E5CEE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
